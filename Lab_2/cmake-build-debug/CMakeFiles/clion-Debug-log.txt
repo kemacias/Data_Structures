@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_C_COMPILER=/usr/bin/clang -G Ninja -S "/Users/katebohning/Documents/Data Structures/Lab_2" -B "/Users/katebohning/Documents/Data Structures/Lab_2/cmake-build-debug"
+-- The C compiler identification is AppleClang 17.0.0.17000319
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/clang - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/katebohning/Documents/Data Structures/Lab_2/cmake-build-debug
